@@ -1,4 +1,4 @@
-AI-VR Integrated Vocational Training Platform for Schools
+<h1>AI-VR Integrated Vocational Training Platform for Schools</h1><br>
 📚 Overview
 This project aims to bridge the gap between education and industry demands by integrating industry-relevant vocational training into elementary and secondary education, in alignment with the National Education Policy (NEP) 2020. Our solution uses AI-powered career guidance, VR-based skill modules, digital certifications, and online apprenticeship platforms to prepare students for modern career paths.
 
